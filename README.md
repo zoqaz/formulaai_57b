@@ -25,4 +25,5 @@ prec60_mdl.sav - model for rain precipitation @ 60 min offset
 weath60_mdl.sav - model for weather category @ 60 min offset
 
 
-Untitled.ipynb - Jupyter notebook for team 57b
+Untitled.ipynb - Jupyter notebook submission for team 57b
+Alec Zhang, David Zhou, Dilan De Silva, Thomas Crawley & Zohaib Qazi
