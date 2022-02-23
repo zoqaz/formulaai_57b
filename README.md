@@ -6,11 +6,11 @@
 
 ## Directory:
 
-*Untitled.ipynb* - Notebook submission for team 57b - includes all model training and associated documentation
+*submission.ipynb* - Notebook submission for team 57b - includes all model training and associated documentation
 
-*predict.ipynb* - Notebook to perform predictions. Duplicate of final 4 chunks of Untitled.ipynb. Requires unpickling of *.sav* files in repo, which are various model objects required for making prediction. 
+*predict.ipynb* - Notebook to perform predictions. Duplicate of final 4 chunks of Untitled.ipynb. Requires unpickling of *.sav* files in repo/models
 
-1. Models
+- Models
    - *prec5_mdl.sav* - model for rain precipitation @ 5 min offset
    - *weath5_mdl.sav* - model for weather category @ 5 min offset
    - *prec10_mdl.sav* - model for rain precipitation @ 10 min offset
