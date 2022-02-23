@@ -1,5 +1,5 @@
-# formulaai_57b
-## Hackmakers Formula AI hackathon
+# Formulaai_57b
+## Hackmakers Formula AI Hackathon
 
 **Team 57b:** Alec Zhang, David Zhou, Dilan De Silva, Thomas Crawley & Zohaib Qazi 
 > arcanasus@gmail.com
